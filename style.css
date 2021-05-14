@@ -6,13 +6,8 @@
 img{ width: 200px;}
   .box {
     display: flex;
-  
-  /* OR 
-    display: inline-flex; 
-   AND */
     flex-direction:row;
-  /* OR 
-    row-reverse OR column OR column-reverse; */
+
   }
   footer{
     
@@ -24,3 +19,5 @@ img{ width: 200px;}
     width: 20px;
     
   }
+
+    
